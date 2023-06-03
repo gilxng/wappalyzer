@@ -4013,12 +4013,12 @@
       "CrownPeakAutocomplete": "",
       "CrownPeakSearch": ""
     },
-    "scripts": "crownpeak\\.net",
     "pricing": [
       "poa"
     ],
     "saas": true,
     "scriptSrc": "js/crownpeak\\.",
+    "scripts": "crownpeak\\.net",
     "website": "http://www.crownpeak.com"
   },
   "Cryout Creations Bravada": {

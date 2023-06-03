@@ -5320,9 +5320,9 @@
       19
     ],
     "description": "Sprig is a free plugin for Craft CMS that allows you to create reactive components from Twig templates ​or PHP classes.",
+    "dom": "form[sprig], button[sprig], input[sprig], div.sprig-component",
     "icon": "Sprig plugin.svg",
     "requires": "Craft CMS",
-    "dom": "form[sprig], button[sprig], input[sprig], div.sprig-component",
     "website": "https://putyourlightson.com/plugins/sprig"
   },
   "Spring": {

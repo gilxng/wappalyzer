@@ -1889,18 +1889,34 @@
     "cats": [
       10
     ],
-    "description": "Ahoy is a Ruby gem that provides simple and powerful analytics for Ruby on Rails applications.",
-    "implies": "Ruby on Rails",
     "cookies": {
       "ahoy_track": "",
       "ahoy_visit": "",
       "ahoy_visitor": ""
     },
+    "description": "Ahoy is a Ruby gem that provides simple and powerful analytics for Ruby on Rails applications.",
+    "implies": "Ruby on Rails",
     "js": {
       "ahoy": ""
     },
     "oss": true,
     "website": "https://github.com/ankane/ahoy"
+  },
+  "Ahrefs": {
+    "cats": [
+      54,
+      10
+    ],
+    "description": "Ahrefs is an online toolset utilised for search engine optimisation (SEO) and competitor analysis, which permits users to analyse their website's performance, track keyword rankings, identify backlink opportunities, and research competitors' websites, among other features.",
+    "icon": "ahrefs.svg",
+    "meta": {
+      "ahrefs-site-verification": ""
+    },
+    "pricing": [
+      "low",
+      "mid"
+    ],
+    "website": "https://ahrefs.com"
   },
   "AiSpeed": {
     "cats": [
@@ -4894,22 +4910,6 @@
     "requires": "WordPress",
     "scriptSrc": "/wp-content/plugins/a3-lazy-load/.+\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1",
     "website": "https://a3rev.com/shop/a3-lazy-load/"
-  },
-  "Ahrefs": {
-    "cats": [
-      54,
-      10
-    ],
-    "description": "Ahrefs is an online toolset utilised for search engine optimisation (SEO) and competitor analysis, which permits users to analyse their website's performance, track keyword rankings, identify backlink opportunities, and research competitors' websites, among other features.",
-    "icon": "ahrefs.svg",
-    "meta": {
-      "ahrefs-site-verification": ""
-    },
-    "pricing": [
-      "low",
-      "mid"
-    ],
-    "website": "https://ahrefs.com"
   },
   "aThemes Airi": {
     "cats": [

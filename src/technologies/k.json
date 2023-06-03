@@ -1,4 +1,17 @@
 {
+  "K-Sup": {
+    "cats": [
+      1
+    ],
+    "description": "K-Sup is an open-source CMS/portal solution dedicated to higher education and research created by Kosmos Education.",
+    "icon": "Kosmos.svg",
+    "implies": "Java",
+    "meta": {
+      "generator": "^K-Sup \\(([\\d.R]+)\\)$\\;version:\\1"
+    },
+    "oss": true,
+    "website": "https://www.ksup.org/"
+  },
   "K2": {
     "cats": [
       19
@@ -1104,19 +1117,6 @@
       "shopify\\.kount\\.net/js"
     ],
     "website": "https://kount.com"
-  },
-  "K-Sup": {
-    "description": "K-Sup is an open-source CMS/portal solution dedicated to higher education and research created by Kosmos Education.",
-    "cats": [
-      1
-    ],
-    "icon": "Kosmos.svg",
-    "implies": "Java",
-    "oss": true,
-    "meta": {
-      "generator": "^K-Sup \\(([\\d.R]+)\\)$\\;version:\\1"
-    },
-    "website": "https://www.ksup.org/"
   },
   "Ktor": {
     "cats": [

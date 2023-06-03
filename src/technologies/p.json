@@ -1215,13 +1215,13 @@
     ],
     "description": "Philomena is an imageboard software.",
     "icon": "Philomena.svg",
-    "meta": {
-      "generator": "^philomena$"
-    },
     "implies": [
       "Elixir",
       "Erlang"
     ],
+    "meta": {
+      "generator": "^philomena$"
+    },
     "oss": true,
     "website": "https://github.com/derpibooru/philomena"
   },
@@ -2538,8 +2538,8 @@
     "description": "Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.",
     "icon": "Preline UI.svg",
     "implies": "Tailwind CSS",
-    "scriptSrc": "/preline\\.js",
     "oss": true,
+    "scriptSrc": "/preline\\.js",
     "website": "https://preline.co"
   },
   "Premio Chaty": {

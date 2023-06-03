@@ -4,7 +4,7 @@ const path = require('path')
 const http = require('http')
 const https = require('https')
 const puppeteer = require('puppeteer')
-const Wappalyzer = require('./wappalyzer')
+const Wappalyzer = require('../../wappalyzer')
 
 const { setTechnologies, setCategories, analyze, analyzeManyToMany, resolve } =
   Wappalyzer
